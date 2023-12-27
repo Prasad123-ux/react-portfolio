@@ -1,0 +1,48 @@
+{
+    "projects": [
+      {
+        "date": "07/10/2022",
+        "title": "WeatherCast (real time weather application)",
+        "description": "I spearheaded the development of WeatherSphere, a sophisticated real-time weather application renowned for its precision and user-centric design. Boasting live weather updates, intuitive navigation.",
+        "url": "https://prasad123-ux.github.io/PRODIGY_WD_05/",
+        "imageSrc":"https://cdn.dribbble.com/users/2633112/screenshots/11019829/dribbble_shot_hd_-_14.png"
+      },
+  
+      {
+        "date": "11/10/2022",
+        "title": "Job listing application (jobify)",
+        "description": "In my latest project, Jobify, I led the development of a cutting-edge job search platform designed to revolutionize the way individuals connect with employment opportunities. Jobify stands out with its sleek interface. ",
+        "url": "https://prasad123-ux.github.io/React-job-listing-application/",
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXQrMouolZr3sKFmWN26iL0A6LQrWszyRCccAg5z5o7KUVpOjZpsfeCTKXALH8leW0yTY&usqp=CAU"
+      },
+      {
+        "date": "15/10/2022",
+        "title": "News Application",
+        "description": "As the driving force behind NewsHub, I conceptualized and developed a dynamic news aggregation application designed to provide users with a comprehensive and personalized news experience. ",
+        "url": "https://prasad123-ux.github.io/-React-News-application/",
+        "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy1sg-xZW8FbZ2KvBqrxxIAoAz0E769p9YZgm-Q0oppYKtoWwMIxLiZL0Nx_tnVHnDAMo&usqp=CAU"
+         },
+  
+      {
+        "date": "17/10/2022",
+        "title": "Crypto Application",
+        "description": "In my recent venture, CryptoPulse, I orchestrated the development of a comprehensive cryptocurrency tracking application aimed at empowering users to navigate the dynamic world of digital assets effortlessly.  ",
+        "url": "https://prasad123-ux.github.io/React-crypto-application/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+      },
+      {
+        "date": "20/10/2022",
+        "title": "Tic Toc Toe",
+        "description": "As the sole developer behind the creation of a modern and engaging Tic-Tac-Toe game, I aimed to reimagine this timeless classic with a focus on user experience and interactive design.",
+        "url": "https://prasad123-ux.github.io/PRODIGY_WD_03/",
+        "imgSrc": "https://c8.alamy.com/comp/2G3KD67/illustration-of-hand-drawn-tic-tac-toe-competition-2G3KD67.jpg"
+      },
+      {
+        "date": "20/10/2022",
+        "title": "Calculator",
+        "description":"In the development of CalcPro, I set out to create more than just a basic calculator; I aimed to design a versatile and user-friendly application that meets the demands of both simple and complex calculations.",
+        "url": "https://prasad123-ux.github.io/OIBGRIO-Calculator/",
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhbexJI2_sibyxrB-ZrcceTLG2N4dVUZP_kHB-lrFtMdUObZQZc4bAx7b_NDh_00yoHTc&usqp=CAU"
+      }
+    ]
+  }
