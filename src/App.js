@@ -13,19 +13,9 @@ import Skill from "./Components/Skill";
 function App() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [ratio, setRatio] = useState(window.innerWidth / window.innerHeight);
-  useEffect(() => {
-    const resizeRatio = () => {
-      setRatio(window.innerWidth / window.innerHeight);
-    };
+  
 
-    window.addEventListener("resize", resizeRatio);
-
-    return () => {
-      window.removeEventListener("resize", resizeRatio);
-    };    
-  }, [ratio]);
-
-  return ratio < 2 ? (
+  return (
     <>
   
       <Header menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
@@ -34,14 +24,14 @@ function App() {
       <Timeline />
       <Services />
       {/* <Skill/>   */}
-      <Testimonial />
+      {/* <Testimonial /> */}
       <Contact />
       <Footer />
       <Toaster />
     </>
-  ) : (
-    <em id="customMessage">Please Change the ratio to View!</em>
-  );
+  
+    
+  )
 }
 
 export default App;
